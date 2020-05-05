@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roamler.LocationSearch", "src\Roamler.LocationSearch\Roamler.LocationSearch.csproj", "{20A93711-10DF-46FA-805A-1FE258DE955E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roamler.LocationSearch.Infrastructure", "src\Roamler.LocationSearch.Infrastructure\Roamler.LocationSearch.Infrastructure.csproj", "{74E4EC87-B32B-41B1-8CFC-E5F4DF22D07E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roamler.LocationSearch.Contracts", "src\Roamler.LocationSearch.Contracts\Roamler.LocationSearch.Contracts.csproj", "{C3FEEBE8-EDAA-4019-A3F5-1D99830B345D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A93711-10DF-46FA-805A-1FE258DE955E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A93711-10DF-46FA-805A-1FE258DE955E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A93711-10DF-46FA-805A-1FE258DE955E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A93711-10DF-46FA-805A-1FE258DE955E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E4EC87-B32B-41B1-8CFC-E5F4DF22D07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E4EC87-B32B-41B1-8CFC-E5F4DF22D07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E4EC87-B32B-41B1-8CFC-E5F4DF22D07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E4EC87-B32B-41B1-8CFC-E5F4DF22D07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FEEBE8-EDAA-4019-A3F5-1D99830B345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FEEBE8-EDAA-4019-A3F5-1D99830B345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FEEBE8-EDAA-4019-A3F5-1D99830B345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FEEBE8-EDAA-4019-A3F5-1D99830B345D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9697F07-BC7E-4823-B673-6B57F7C0B1BE}
+	EndGlobalSection
+EndGlobal

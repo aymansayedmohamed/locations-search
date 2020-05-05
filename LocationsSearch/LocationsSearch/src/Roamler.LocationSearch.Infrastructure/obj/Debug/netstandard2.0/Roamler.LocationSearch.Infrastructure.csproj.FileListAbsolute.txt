@@ -1,0 +1,11 @@
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\bin\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.deps.json
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\bin\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.dll
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.csprojAssemblyReference.cache
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.AssemblyInfoInputs.cache
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.AssemblyInfo.cs
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\bin\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.pdb
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\bin\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.dll
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\bin\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.pdb
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.csproj.CopyComplete
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.dll
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Infrastructure\obj\Debug\netstandard2.0\Roamler.LocationSearch.Infrastructure.pdb

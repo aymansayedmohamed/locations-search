@@ -1,0 +1,47 @@
+{
+	"info": {
+		"_postman_id": "df140282-4c90-4ac1-88ff-ac297e0514de",
+		"name": "Elastic",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Location search",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"Lat\" : 52.2165425,\n    \"Lon\" : 5.4778534,\n    \"MaxDistance\" : 2000,\n    \"MaxResults\" : 100\n}",
+					"options": {
+						"raw": {}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51529/api/LocationSearch/GetLocations",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51529",
+					"path": [
+						"api",
+						"LocationSearch",
+						"GetLocations"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

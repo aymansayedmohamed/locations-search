@@ -1,0 +1,7 @@
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\bin\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.deps.json
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\bin\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.dll
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\bin\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.pdb
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\obj\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.AssemblyInfoInputs.cache
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\obj\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.AssemblyInfo.cs
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\obj\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.dll
+C:\Friss\Learnings\Senior_Exercise\docker-elk-master\LocationSearch\Roamler.LocationSearch\src\Roamler.LocationSearch.Contracts\obj\Debug\netstandard2.0\Roamler.LocationSearch.Contracts.pdb
