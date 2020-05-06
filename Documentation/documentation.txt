@@ -1,0 +1,23 @@
+# the solution component
+
+  A cluster that contains 4 docker containers that can be orchestrated and scaled by Kubernetes
+
+  1- Elasticsearch
+            is a search engine based on the Lucene library. It provides a distributed, multitenant-capable
+	    full-text search engine with an HTTP web interface and schema-free JSON documents.
+	    I decided to choose it in our case because it contains a ready geo module and can execute queries 
+	    on geodata with a super performance. It can search in millions of records in seconds at the same 
+	    time it's scalable and can run more than one node. 
+          	
+  2- Logstash
+            is an open-source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously,
+	    transforms it, and then sends it to elastic
+
+  3- Kibana
+	   is an open-source data visualization dashboard for Elasticsearch. It provides visualization capabilities 
+	   on top of the content indexed on an Elasticsearch cluster. It's very helpful for the data visualization
+
+  4- API
+	   .net core web API that used as an endpoint to the outer world to use the solution
+
+
