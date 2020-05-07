@@ -6,7 +6,7 @@
             is a search engine based on the Lucene library. It provides a distributed, multitenant-capable
 	    full-text search engine with an HTTP web interface and schema-free JSON documents.
 	    I decided to choose it in our case because it contains a ready geo module and can execute queries 
-	    on geodata with a super performance. It can search in millions of records in seconds at the same 
+	    on geodata with a super performance. It can search in millions of records in milliseconds at the same 
 	    time it's scalable and can run more than one node. 
           	
   2- Logstash
